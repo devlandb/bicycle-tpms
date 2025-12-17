@@ -1,2 +1,2 @@
 # bicycle-tpms
-project to look at tire pressure of my bike cause im lazy
+Measures the tire pressure of my bike with a pressure sensor connected to STM32F401 board, transmits data to dashboard
